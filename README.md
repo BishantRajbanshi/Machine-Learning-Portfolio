@@ -61,7 +61,7 @@ machine-learning-portfolio/
 ## Setup
 
 ```bash
-git clone https://github.com/your-username/machine-learning-portfolio.git
+git clone https://github.com/BishantRajbanshi/machine-learning-portfolio.git
 cd machine-learning-portfolio
 pip install -r requirements.txt
 ```
